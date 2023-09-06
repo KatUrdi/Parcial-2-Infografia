@@ -1,15 +1,14 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1694026641
-icon.svg::CompressedTexture2D::1439219327908246736::1694020492::1694020732::1::::<><>::
-::res://assets/::1694022740
+::res://::1694028428
+::res://assets/::1694028153
 background.png::CompressedTexture2D::3612365713185931583::1694020492::1694020732::1::::<><>::
 bottom_ui.png::CompressedTexture2D::5025503224065136327::1694020492::1694020732::1::::<><>::
 gameover.jpeg::CompressedTexture2D::166153016504675916::1694022732::1694022740::1::::<><>::
 top_ui.png::CompressedTexture2D::2391556754229468520::1694020492::1694020732::1::::<><>::
 Win sign.jpeg::CompressedTexture2D::6186450032996936287::1694020936::1694020936::1::::<><>::
-::res://assets/fonts/::1694020732
+::res://assets/fonts/::1694028152
 Kenney Blocks.ttf::FontFile::4345262982494110453::1694020492::1694020732::1::::<><>::
-::res://assets/pieces/::1694020732
+::res://assets/pieces/::1694028153
 Blue Adjacent.png::CompressedTexture2D::8986700520750168311::1694020492::1694020732::1::::<><>::
 Blue Column.png::CompressedTexture2D::6940635691129742527::1694020492::1694020732::1::::<><>::
 Blue Piece.png::CompressedTexture2D::4276088075349927580::1694020492::1694020732::1::::<><>::
@@ -37,17 +36,17 @@ Yellow Adjacent.png::CompressedTexture2D::6822603290880438611::1694020492::16940
 Yellow Column.png::CompressedTexture2D::1746158678168645634::1694020492::1694020732::1::::<><>::
 Yellow Piece.png::CompressedTexture2D::413519736513276236::1694020492::1694020732::1::::<><>::
 Yellow Row.png::CompressedTexture2D::5902573126665028620::1694020492::1694020732::1::::<><>::
-::res://scenes/::1694023326
+::res://scenes/::1694028153
 blue_piece.tscn::PackedScene::3723709248147792561::1694020492::0::1::::<><>::uid://dimhfx4c1igfv
-game.tscn::PackedScene::6007823268628735923::1694023326::0::1::::<><>::uid://brp4euwugc18f::::res://assets/background.png<>uid://bt33j5dwxano3::::res://scenes/top_ui.tscn<>uid://cdunkljd6up72::::res://assets/bottom_ui.png<>res://scripts/grid.gd<>uid://cue06s8wd5p1p::::res://assets/Win sign.jpeg
+game.tscn::PackedScene::6007823268628735923::1694027140::0::1::::<><>::uid://brp4euwugc18f::::res://assets/background.png<>uid://bt33j5dwxano3::::res://scenes/top_ui.tscn<>res://scripts/grid.gd<>uid://cue06s8wd5p1p::::res://assets/Win sign.jpeg<>uid://cmqrsngr4o2g::::res://assets/gameover.jpeg
 green_piece.tscn::PackedScene::2133657546713321240::1694020492::0::1::::<><>::uid://dimhfx4c1igfv
 light_green_piece.tscn::PackedScene::4761783514317088189::1694020492::0::1::::<><>::uid://dimhfx4c1igfv
 orange_piece.tscn::PackedScene::6922208767561527685::1694020492::0::1::::<><>::uid://dimhfx4c1igfv
 piece.tscn::PackedScene::7745980534113487799::1694020492::0::1::::<><>::res://scripts/piece.gd
 pink_piece.tscn::PackedScene::4170104838850698021::1694020492::0::1::::<><>::uid://dimhfx4c1igfv
-top_ui.tscn::PackedScene::3779529019237243292::1694023228::0::1::::<><>::uid://bacqucona7fm3::::res://assets/top_ui.png<>res://scripts/top_ui.gd<>uid://b25431rxog83j::::res://assets/fonts/Kenney Blocks.ttf
+top_ui.tscn::PackedScene::3779529019237243292::1694027140::0::1::::<><>::uid://bacqucona7fm3::::res://assets/top_ui.png<>res://scripts/top_ui.gd<>uid://b25431rxog83j::::res://assets/fonts/Kenney Blocks.ttf
 yellow_piece.tscn::PackedScene::8054288014610159906::1694020492::0::1::::<><>::uid://dimhfx4c1igfv
-::res://scripts/::1694022739
-grid.gd::GDScript::-1::1694022603::0::1::::<>Node2D<>::
+::res://scripts/::1694028153
+grid.gd::GDScript::-1::1694027018::0::1::::<>Node2D<>::
 piece.gd::GDScript::-1::1694020492::0::1::::<>Node2D<>::
 top_ui.gd::GDScript::-1::1694020492::0::1::::<>TextureRect<>::

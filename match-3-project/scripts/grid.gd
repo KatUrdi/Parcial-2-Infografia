@@ -44,7 +44,7 @@ var old_score=0
 signal update_timer(new_time)
 signal update_move_counter(new_move_counter)
 var timer = true
-var counter = 5
+var counter = 60
 var move_counter = 30
 var target_score=500
 var won = false
